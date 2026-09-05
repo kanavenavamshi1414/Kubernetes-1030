@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/kanavenavamshi1414/Kubernetes-1030.git
     targetRevision: main
-    path: k8s-files
+    path: Day-7-Ingress-Path-Base-Deployment/k8s-files
 
   destination:
     server: https://kubernetes.default.svc
